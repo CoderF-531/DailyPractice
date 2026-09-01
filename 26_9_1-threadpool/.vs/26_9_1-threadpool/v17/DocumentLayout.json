@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1436E9BF-3137-471B-98B4-C7D31A1FFC56}|26_9_1-threadpool\\26_9_1-threadpool.vcxproj|C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\26_9_1-threadpool\\ThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1436E9BF-3137-471B-98B4-C7D31A1FFC56}|26_9_1-threadpool\\26_9_1-threadpool.vcxproj|solutionrelative:26_9_1-threadpool\\ThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436E9BF-3137-471B-98B4-C7D31A1FFC56}|26_9_1-threadpool\\26_9_1-threadpool.vcxproj|C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\26_9_1-threadpool\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1436E9BF-3137-471B-98B4-C7D31A1FFC56}|26_9_1-threadpool\\26_9_1-threadpool.vcxproj|solutionrelative:26_9_1-threadpool\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\26_9_1-threadpool\\Main.cpp",
+              "RelativeDocumentMoniker": "26_9_1-threadpool\\Main.cpp",
+              "ToolTip": "C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\26_9_1-threadpool\\Main.cpp",
+              "RelativeToolTip": "26_9_1-threadpool\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-01T07:12:15.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadPool.hpp",
+              "DocumentMoniker": "C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\26_9_1-threadpool\\ThreadPool.hpp",
+              "RelativeDocumentMoniker": "26_9_1-threadpool\\ThreadPool.hpp",
+              "ToolTip": "C:\\Users\\fly\\Desktop\\workspace\\DailyPractice\\26_9_1-threadpool\\26_9_1-threadpool\\ThreadPool.hpp",
+              "RelativeToolTip": "26_9_1-threadpool\\ThreadPool.hpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAAASwJYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-01T07:11:55.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
