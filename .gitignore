@@ -1,69 +1,81 @@
-# Prerequisites
-*.d
+# =========================
+# Visual Studio / VS2022
+# =========================
+.vs/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.suo
+*.db
+*.ipch
 
-# Compiled Object files
-*.slo
-*.lo
+# Build directories
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+
+# =========================
+# Compiled object files
+# =========================
 *.o
 *.obj
+*.slo
+*.lo
+*.d
 
-# Precompiled Headers
+# =========================
+# Precompiled headers
+# =========================
 *.gch
 *.pch
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
+# =========================
+# Compiled libraries
+# =========================
 *.so
 *.dylib
 *.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
 
+# =========================
 # Executables
+# =========================
 *.exe
 *.out
 *.app
 
-# Build directories
-build/
-Build/
-build-*/
+# =========================
+# Fortran module files
+# =========================
+*.mod
+*.smod
 
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
+# =========================
+# Flash / Air / Mobile
+# =========================
+*.swf
+*.air
+*.ipa
+*.apk
 
-# Temporary files
-*.tmp
+# =========================
+# Other Windows temporary files
+# =========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 *.log
-*.bak
-*.swp
-
-# vcpkg
-vcpkg_installed/
-
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
