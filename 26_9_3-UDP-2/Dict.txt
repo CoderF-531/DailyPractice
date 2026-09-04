@@ -1,0 +1,20 @@
+account: 账户
+deposit: 存款
+withdrawal: 取款
+transfer: 转账
+balance: 余额
+loan: 贷款
+interest: 利息
+currency: 货币
+exchange rate: 汇率
+branch: 分行
+teller: 出纳员
+ATM: 自动取款机
+password: 密码
+transaction: 交易
+credit card: 信用卡
+debit card: 借记卡
+mortgage: 抵押贷款
+payment: 付款
+:你好
+word: 
