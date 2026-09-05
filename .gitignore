@@ -12,6 +12,9 @@
 *.ipch
 
 # Build directories
+build/
+26-9-5-ChatRoom/bin/
+26-9-5-ChatRoom/build/
 bin-debug/
 bin-release/
 [Oo]bj/
